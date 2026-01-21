@@ -57,4 +57,4 @@ Operating System lab/project work
 Beginner-level OS learning
 
 👤 Author
-Simon-1221
+Simegnew Tagele 
